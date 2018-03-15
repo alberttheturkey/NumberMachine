@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberMachine", "WindowsFormsApplication1\NumberMachine.csproj", "{2EDCF616-E16D-485E-B963-38A49C2D7952}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberMachine", "NumberMachine\NumberMachine.csproj", "{2EDCF616-E16D-485E-B963-38A49C2D7952}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
